@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Pratikr8132
-- 👀 I’m interested in software developer.    
-- 🌱 I’m currently learning computer engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...'
 - 👨‍💻 I'm a knowledgeable and dedicated professional in Computer Engineering with a strong foundation in Data Analytics, Software Development, and Database Management.
 - 🔭 I have expertise in various programming languages and technologies including Python, GCP, HTML, CSS, PHP, JS, MongoDB, and MySQL. I possess a deep understanding oF data structures, algorithms, and data visualization techniques.
 - 🌱 Throughout my academic journey, I actively pursued emerging technologies and continuously enhanced my skills in Web Development through internships and relevant courses. I have hands-on experience with HTML, CSS, JavaScript, and PHP.
